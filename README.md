@@ -9,5 +9,6 @@ Python-Based, Terminal-Based Interface
 - pick lib
 - built-in curser lib
 
+*others*
 - Tree growth leveling sys
 - Json file handling for saving current state

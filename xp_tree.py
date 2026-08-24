@@ -1,5 +1,5 @@
 class XPSystem:
-    def _init_(self):
+    def __init__(self):
         self.total_xp = 0
 
     def add_xp(self, xp):
